@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+
+}
+body{
+    font-family:sans-serif;
+    overflow: hidden;
+}
+
+#snow-fall{
+    height: 100vh;
+    width: 100vw;
+    background: #262626;
+    background-image:url(https://images2.alphacoders.com/773/773589.jpg) ;
+    background-size: cover;
+}
